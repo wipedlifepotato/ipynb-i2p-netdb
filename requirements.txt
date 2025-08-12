@@ -3,4 +3,5 @@ pandas
 numpy
 matplotlib
 geoip2
+bokeh
 
